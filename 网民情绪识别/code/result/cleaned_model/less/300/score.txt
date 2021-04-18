@@ -1,0 +1,13 @@
+./cleaned_model/less/300/score.txt
+matrix:
+1123	221	231
+259	600	304
+118	679	965
+precision_class1:	0.713015873015873
+precision_class2:	0.5159071367153912
+precision_class3:	0.5476730987514189
+recall_class1:	0.7486666666666667
+recall_class2:	0.4
+recall_class3:	0.6433333333333333
+micro_F1:	0.5973333333333334
+macro_F1:	0.5947549362307663

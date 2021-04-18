@@ -1,0 +1,13 @@
+./cleaned_model/large/160/score.txt
+matrix:
+1253	301	278
+153	558	250
+94	641	972
+precision_class1:	0.6839519650655022
+precision_class2:	0.5806451612903226
+precision_class3:	0.5694200351493849
+recall_class1:	0.8353333333333334
+recall_class2:	0.372
+recall_class3:	0.648
+micro_F1:	0.6184444444444445
+macro_F1:	0.6148712225284542

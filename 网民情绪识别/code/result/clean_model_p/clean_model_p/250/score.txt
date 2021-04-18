@@ -1,0 +1,13 @@
+./clean_model_p/clean_model_p/250/score.txt
+matrix:
+801	69	106
+475	515	356
+224	916	1038
+precision_class1:	0.8206967213114754
+precision_class2:	0.3826151560178306
+precision_class3:	0.4765840220385675
+recall_class1:	0.534
+recall_class2:	0.3433333333333333
+recall_class3:	0.692
+micro_F1:	0.5231111111111111
+macro_F1:	0.5409111807964199

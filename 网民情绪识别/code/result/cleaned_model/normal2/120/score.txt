@@ -1,0 +1,13 @@
+./cleaned_model/normal2/120/score.txt
+matrix:
+1265	318	261
+144	540	287
+91	642	952
+precision_class1:	0.6860086767895879
+precision_class2:	0.5561277033985582
+precision_class3:	0.5649851632047478
+recall_class1:	0.8433333333333334
+recall_class2:	0.36
+recall_class3:	0.6346666666666667
+micro_F1:	0.6126666666666667
+macro_F1:	0.6074766611055139

@@ -1,0 +1,13 @@
+./pretrained_model/1200/117/score.txt
+matrix:
+1191	297	224
+185	558	282
+124	645	994
+precision_class1:	0.695677570093458
+precision_class2:	0.5443902439024391
+precision_class3:	0.5638116846284742
+recall_class1:	0.794
+recall_class2:	0.372
+recall_class3:	0.6626666666666666
+micro_F1:	0.6095555555555555
+macro_F1:	0.6053961711185349

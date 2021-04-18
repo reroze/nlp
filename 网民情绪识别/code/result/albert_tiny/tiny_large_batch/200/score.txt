@@ -1,0 +1,13 @@
+./albert_tiny/tiny_large_batch/200/score.txt
+matrix:
+1164	261	221
+216	617	314
+120	622	965
+precision_class1:	0.707168894289186
+precision_class2:	0.5379250217959896
+precision_class3:	0.5653192735793791
+recall_class1:	0.776
+recall_class2:	0.41133333333333333
+recall_class3:	0.6433333333333333
+micro_F1:	0.6102222222222222
+macro_F1:	0.6068278660884328

@@ -1,0 +1,13 @@
+./cleaned_data2/less/117/score.txt
+matrix:
+1217	275	213
+192	709	342
+91	516	945
+precision_class1:	0.713782991202346
+precision_class2:	0.5703942075623492
+precision_class3:	0.6088917525773195
+recall_class1:	0.8113333333333334
+recall_class2:	0.4726666666666667
+recall_class3:	0.63
+micro_F1:	0.638
+macro_F1:	0.6344923122710747

@@ -1,0 +1,13 @@
+./albert_base/less_trained/500/score.txt
+matrix:
+1156	308	222
+256	610	285
+88	582	993
+precision_class1:	0.6856465005931198
+precision_class2:	0.5299739357080799
+precision_class3:	0.5971136500300661
+recall_class1:	0.7706666666666667
+recall_class2:	0.4066666666666667
+recall_class3:	0.662
+micro_F1:	0.6131111111111112
+macro_F1:	0.6086456147195757

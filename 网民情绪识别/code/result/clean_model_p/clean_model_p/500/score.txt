@@ -1,0 +1,13 @@
+./clean_model_p/clean_model_p/500/score.txt
+matrix:
+1300	474	356
+112	384	241
+88	642	903
+precision_class1:	0.6103286384976526
+precision_class2:	0.5210312075983717
+precision_class3:	0.5529699938763013
+recall_class1:	0.8666666666666667
+recall_class2:	0.256
+recall_class3:	0.602
+micro_F1:	0.5748888888888889
+macro_F1:	0.5680865371016539

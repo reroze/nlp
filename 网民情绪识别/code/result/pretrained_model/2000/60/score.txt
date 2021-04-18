@@ -1,0 +1,13 @@
+./pretrained_model/2000/60/score.txt
+matrix:
+1104	226	192
+250	690	331
+146	584	977
+precision_class1:	0.7253613666228647
+precision_class2:	0.5428796223446105
+precision_class3:	0.5723491505565319
+recall_class1:	0.736
+recall_class2:	0.46
+recall_class3:	0.6513333333333333
+micro_F1:	0.6157777777777778
+macro_F1:	0.6146518572076813

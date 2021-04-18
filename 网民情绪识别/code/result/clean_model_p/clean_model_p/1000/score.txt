@@ -1,0 +1,13 @@
+./clean_model_p/clean_model_p/1000/score.txt
+matrix:
+1165	302	241
+225	491	299
+110	707	960
+precision_class1:	0.6820843091334895
+precision_class2:	0.483743842364532
+precision_class3:	0.5402363534046145
+recall_class1:	0.7766666666666666
+recall_class2:	0.3273333333333333
+recall_class3:	0.64
+micro_F1:	0.5813333333333334
+macro_F1:	0.5749412302914154

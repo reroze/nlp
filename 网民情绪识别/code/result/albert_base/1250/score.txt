@@ -1,0 +1,13 @@
+./albert_base/1250/score.txt
+matrix:
+1103	180	238
+259	606	335
+138	714	927
+precision_class1:	0.725180802103879
+precision_class2:	0.505
+precision_class3:	0.521079258010118
+recall_class1:	0.7353333333333333
+recall_class2:	0.404
+recall_class3:	0.618
+micro_F1:	0.5857777777777777
+macro_F1:	0.5847638134646418

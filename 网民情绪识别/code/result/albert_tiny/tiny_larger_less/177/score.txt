@@ -1,0 +1,13 @@
+./albert_tiny/tiny_larger_less/177/score.txt
+matrix:
+1055	190	187
+292	611	326
+153	699	987
+precision_class1:	0.736731843575419
+precision_class2:	0.4971521562245728
+precision_class3:	0.5367047308319739
+recall_class1:	0.7033333333333334
+recall_class2:	0.4073333333333333
+recall_class3:	0.658
+micro_F1:	0.5895555555555556
+macro_F1:	0.5898757255805105

@@ -1,0 +1,13 @@
+./pretrained_model/800/90/score.txt
+matrix:
+1188	262	224
+175	541	274
+137	697	1002
+precision_class1:	0.7096774193548387
+precision_class2:	0.5464646464646464
+precision_class3:	0.545751633986928
+recall_class1:	0.792
+recall_class2:	0.3606666666666667
+recall_class3:	0.668
+micro_F1:	0.6068888888888889
+macro_F1:	0.6037438467511758

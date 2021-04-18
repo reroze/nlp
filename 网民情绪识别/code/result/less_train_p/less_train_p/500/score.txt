@@ -1,0 +1,13 @@
+./less_train_p/less_train_p/500/score.txt
+matrix:
+1197	305	285
+165	468	182
+138	727	1033
+precision_class1:	0.6698377168438724
+precision_class2:	0.5742331288343558
+precision_class3:	0.5442571127502634
+recall_class1:	0.798
+recall_class2:	0.312
+recall_class3:	0.6886666666666666
+micro_F1:	0.5995555555555555
+macro_F1:	0.5978274710142241

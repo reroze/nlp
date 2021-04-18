@@ -1,0 +1,13 @@
+./train_model1/score.txt
+matrix:
+1098	285	293
+282	446	247
+120	769	960
+precision_class1:	0.6551312649164678
+precision_class2:	0.4574358974358974
+precision_class3:	0.5191995673336939
+recall_class1:	0.732
+recall_class2:	0.29733333333333334
+recall_class3:	0.64
+micro_F1:	0.5564444444444444
+macro_F1:	0.5501120923505632

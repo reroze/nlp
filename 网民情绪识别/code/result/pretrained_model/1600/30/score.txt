@@ -1,0 +1,13 @@
+./pretrained_model/1600/30/score.txt
+matrix:
+1288	413	370
+127	450	224
+85	637	906
+precision_class1:	0.6219217769193627
+precision_class2:	0.5617977528089888
+precision_class3:	0.5565110565110565
+recall_class1:	0.8586666666666667
+recall_class2:	0.3
+recall_class3:	0.604
+micro_F1:	0.5875555555555556
+macro_F1:	0.5837922582767128

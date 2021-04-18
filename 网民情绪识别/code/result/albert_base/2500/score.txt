@@ -1,0 +1,13 @@
+./albert_base/2500/score.txt
+matrix:
+1082	175	213
+277	592	378
+141	733	909
+precision_class1:	0.7360544217687075
+precision_class2:	0.4747393744987971
+precision_class3:	0.5098149186763881
+recall_class1:	0.7213333333333334
+recall_class2:	0.39466666666666667
+recall_class3:	0.606
+micro_F1:	0.574
+macro_F1:	0.5737680254457211

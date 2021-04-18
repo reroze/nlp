@@ -1,0 +1,13 @@
+./cleaned_model/less/60/score.txt
+matrix:
+1212	312	306
+225	828	420
+63	360	774
+precision_class1:	0.6622950819672131
+precision_class2:	0.5621181262729125
+precision_class3:	0.6466165413533834
+recall_class1:	0.808
+recall_class2:	0.552
+recall_class3:	0.516
+micro_F1:	0.6253333333333333
+macro_F1:	0.6245038594668584

@@ -1,0 +1,13 @@
+./albert_tiny/tiny_larger_less/234/score.txt
+matrix:
+1179	271	244
+222	604	331
+99	625	925
+precision_class1:	0.6959858323494688
+precision_class2:	0.5220397579948142
+precision_class3:	0.5609460278956944
+recall_class1:	0.786
+recall_class2:	0.4026666666666667
+recall_class3:	0.6166666666666667
+micro_F1:	0.6017777777777777
+macro_F1:	0.5973518445657258

@@ -1,0 +1,13 @@
+./pretrained_model/800/30/score.txt
+matrix:
+1059	242	268
+356	750	428
+85	508	804
+precision_class1:	0.6749521988527725
+precision_class2:	0.48891786179921776
+precision_class3:	0.5755189692197566
+recall_class1:	0.706
+recall_class2:	0.5
+recall_class3:	0.536
+micro_F1:	0.5806666666666667
+macro_F1:	0.5802311786163138
